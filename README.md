@@ -1,3 +1,6 @@
+# StyloSense - Bangkit Capstone Project 2024 - C241-PS471  ✨
+![Desain tanpa judul (1)](https://github.com/mldtmakbar/StyloSense-C241-PS471/assets/92715992/f840e754-8ee2-4899-b37c-dfee8b495166)
+
 # StyloSense🪡
 Stylosense is an application designed to assist users in finding tailoring services more easily. Additionally, it supports tailors in attracting new customers. One of Stylosense's standout features is its ability to help users find clothing colors that complement their skin tone. Thus, Stylosense not only simplifies the tailoring process but also enhances users' experiences in determining styles and suitable clothing colors for them.
 
